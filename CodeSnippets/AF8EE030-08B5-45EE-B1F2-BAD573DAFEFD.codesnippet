@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>#Mark Helper</string>
+	<string>#Mark UI Config</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>Preprocessor</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pragma mark - Helper -</string>
+	<string>pragma mark - UI Config -</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>19817C74-F178-48BC-A30F-E0D7A084C962</string>
+	<string>AF8EE030-08B5-45EE-B1F2-BAD573DAFEFD</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Mark Helper Method</string>
+	<string>Mark UI Config</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Mark Helper Method</string>
+	<string>Mark UI Config</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
